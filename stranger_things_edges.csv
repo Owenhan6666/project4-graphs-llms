@@ -1,0 +1,27 @@
+Source,Target,Weight
+Mike,Eleven,35
+Mike,Dustin,28
+Mike,Lucas,30
+Mike,Will,33
+Eleven,Hopper,40
+Eleven,Max,15
+Max,Lucas,20
+Max,Dustin,10
+Will,Jonathan,25
+Jonathan,Nancy,27
+Nancy,Steve,22
+Steve,Robin,26
+Robin,Erica,18
+Erica,Dustin,14
+Hopper,Joyce,30
+Joyce,Bob,12
+Joyce,Will,18
+Hopper,Murray,20
+Murray,Joyce,10
+Billy,Max,10
+Billy,Steve,8
+Billy,Hawkins Lab,5
+Dr. Brenner,Eleven,33
+Dr. Owens,Hopper,14
+Argyle,Jonathan,10
+Argyle,Mike,6
